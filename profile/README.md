@@ -8,6 +8,9 @@
 
 :rocket: :rocket: **MORE TO COME SOON**
 
+## Project status
+Follow: https://github.com/orgs/Analyticious/projects/1
+
 ### A bit of theories we like
 - `Sampling` theory
 - `Signal` theory
