@@ -1,19 +1,25 @@
-🗒 Analyticious - no *drama* analytics
+🗒 Analyticious - no *drama* analytics system
 
 
-`Analyticous` project consists of:
- - [_analytico ios_ library](https://github.com/Analyticious/analytico)
- - [_analytico backend_](https://github.com/Analyticious/analytico-be)
+`Analyticous` system consists of:
+ - native libraries
+   - [_analytico ios_ library](https://github.com/Analyticious/analytico)
+   - _analytico android_ library - _comming soon_
+ - [_analytico bacckbone_](https://github.com/Analyticious/analytico-be)
  - _analytico dashboard_ (_TBD_)
 
+> Project is in *very early* stage of development
 :rocket: :rocket: **MORE TO COME SOON**
 
 ## Project status
 Follow: https://github.com/orgs/Analyticious/projects/1
 
-### A bit of theories we like
+### A bit of theories involved 📚📖
 - `Sampling` theory
 - `Signal` theory
-- `Sequences` and `sequencing`
+- `Statistics`
+- `Sequences`
 - `Asynchornous` programming
-- `Data processing`
+- `Machine Learning`
+- `Set` theory
+- `Data peocessing`
